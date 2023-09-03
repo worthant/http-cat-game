@@ -1,5 +1,12 @@
 # http-cat-game
 
+## Stack of technologies
+
+- Vue.js
+- Vuetify
+- Javascript
+- yarn
+
 ## Project setup
 ```
 yarn install
